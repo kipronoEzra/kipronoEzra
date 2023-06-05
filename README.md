@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there 
 I am currently building my knowledge of Python<br>I'm looking to collaborate with a 3d or 2d jewelry designer <br>I am looking for help in developing a blender addon<br>ask me about 3d modeling and animation<br>you know what I swear alot<br>
 
 
